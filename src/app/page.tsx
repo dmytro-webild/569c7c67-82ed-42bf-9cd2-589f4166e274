@@ -66,23 +66,23 @@ export default function LandingPage() {
       ]}
       mediaItems={[
         {
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Bag3h5O25bp8ZnRSfrVSnN9A9z/close-up-cinematic-photograph-of-an-auto-1775745771756-fcc4d912.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Bag3h5O25bp8ZnRSfrVSnN9A9z/close-up-cinematic-photograph-of-an-auto-1775745771756-fcc4d912.png?_wi=1",
           imageAlt: "Motor sendo ajustado",
         },
         {
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Bag3h5O25bp8ZnRSfrVSnN9A9z/close-up-macro-shot-of-automotive-gears--1775745770698-29a5cc4d.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Bag3h5O25bp8ZnRSfrVSnN9A9z/close-up-macro-shot-of-automotive-gears--1775745770698-29a5cc4d.png?_wi=1",
           imageAlt: "Engrenagens de precisão",
         },
         {
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Bag3h5O25bp8ZnRSfrVSnN9A9z/modern-digital-diagnostic-monitor-showin-1775745772103-0604377a.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Bag3h5O25bp8ZnRSfrVSnN9A9z/modern-digital-diagnostic-monitor-showin-1775745772103-0604377a.png?_wi=1",
           imageAlt: "Diagnóstico digital",
         },
         {
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Bag3h5O25bp8ZnRSfrVSnN9A9z/exquisite-car-bodywork-detail-perfect-po-1775745769554-05153832.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Bag3h5O25bp8ZnRSfrVSnN9A9z/exquisite-car-bodywork-detail-perfect-po-1775745769554-05153832.png?_wi=1",
           imageAlt: "Detalhamento premium",
         },
         {
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Bag3h5O25bp8ZnRSfrVSnN9A9z/a-highly-detailed-professional-photo-of--1775745770238-cf20be87.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Bag3h5O25bp8ZnRSfrVSnN9A9z/a-highly-detailed-professional-photo-of--1775745770238-cf20be87.png?_wi=1",
           imageAlt: "Tecnologia de ponta",
         },
       ]}
@@ -117,7 +117,7 @@ export default function LandingPage() {
           title: "Mão de Obra de Elite",
           description: "Especialistas treinados para diagnósticos complexos e precisos.",
           media: {
-            imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Bag3h5O25bp8ZnRSfrVSnN9A9z/close-up-macro-shot-of-automotive-gears--1775745770698-29a5cc4d.png",
+            imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Bag3h5O25bp8ZnRSfrVSnN9A9z/close-up-macro-shot-of-automotive-gears--1775745770698-29a5cc4d.png?_wi=2",
             imageAlt: "Especialista em ação",
           },
           items: [
@@ -135,14 +135,14 @@ export default function LandingPage() {
             },
           ],
           reverse: false,
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Bag3h5O25bp8ZnRSfrVSnN9A9z/close-up-cinematic-photograph-of-an-auto-1775745771756-fcc4d912.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Bag3h5O25bp8ZnRSfrVSnN9A9z/close-up-cinematic-photograph-of-an-auto-1775745771756-fcc4d912.png?_wi=2",
           imageAlt: "Close-up cinematic photograph of an automotive high-performance car engine being precision-tuned wit",
         },
         {
           title: "Solução Definitiva",
           description: "Sem retornos desnecessários. O carro sai intacto e pronto para a estrada.",
           media: {
-            imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Bag3h5O25bp8ZnRSfrVSnN9A9z/modern-digital-diagnostic-monitor-showin-1775745772103-0604377a.png",
+            imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Bag3h5O25bp8ZnRSfrVSnN9A9z/modern-digital-diagnostic-monitor-showin-1775745772103-0604377a.png?_wi=2",
             imageAlt: "Solução definitiva",
           },
           items: [
@@ -160,14 +160,14 @@ export default function LandingPage() {
             },
           ],
           reverse: true,
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Bag3h5O25bp8ZnRSfrVSnN9A9z/a-highly-detailed-professional-photo-of--1775745770238-cf20be87.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Bag3h5O25bp8ZnRSfrVSnN9A9z/a-highly-detailed-professional-photo-of--1775745770238-cf20be87.png?_wi=2",
           imageAlt: "A highly detailed, professional photo of a modern high-end mechanic hands holding precision digital ",
         },
         {
           title: "Transparência Premium",
           description: "Relatórios detalhados de cada serviço executado.",
           media: {
-            imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Bag3h5O25bp8ZnRSfrVSnN9A9z/exquisite-car-bodywork-detail-perfect-po-1775745769554-05153832.png",
+            imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Bag3h5O25bp8ZnRSfrVSnN9A9z/exquisite-car-bodywork-detail-perfect-po-1775745769554-05153832.png?_wi=2",
             imageAlt: "Transparência total",
           },
           items: [
@@ -185,7 +185,7 @@ export default function LandingPage() {
             },
           ],
           reverse: false,
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Bag3h5O25bp8ZnRSfrVSnN9A9z/close-up-macro-shot-of-automotive-gears--1775745770698-29a5cc4d.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Bag3h5O25bp8ZnRSfrVSnN9A9z/close-up-macro-shot-of-automotive-gears--1775745770698-29a5cc4d.png?_wi=3",
           imageAlt: "Close-up macro shot of automotive gears, high-end mechanical precision, metallic textures, dark indu",
         },
       ]}
@@ -230,37 +230,37 @@ export default function LandingPage() {
           id: "1",
           name: "Injeção Eletrônica",
           price: "Investimento a partir de R$ 800",
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Bag3h5O25bp8ZnRSfrVSnN9A9z/close-up-macro-shot-of-automotive-gears--1775745770698-29a5cc4d.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Bag3h5O25bp8ZnRSfrVSnN9A9z/close-up-macro-shot-of-automotive-gears--1775745770698-29a5cc4d.png?_wi=4",
         },
         {
           id: "2",
           name: "Revisão Performance",
           price: "Investimento a partir de R$ 1200",
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Bag3h5O25bp8ZnRSfrVSnN9A9z/modern-digital-diagnostic-monitor-showin-1775745772103-0604377a.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Bag3h5O25bp8ZnRSfrVSnN9A9z/modern-digital-diagnostic-monitor-showin-1775745772103-0604377a.png?_wi=3",
         },
         {
           id: "3",
           name: "Suspensão",
           price: "Investimento a partir de R$ 900",
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Bag3h5O25bp8ZnRSfrVSnN9A9z/exquisite-car-bodywork-detail-perfect-po-1775745769554-05153832.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Bag3h5O25bp8ZnRSfrVSnN9A9z/exquisite-car-bodywork-detail-perfect-po-1775745769554-05153832.png?_wi=3",
         },
         {
           id: "4",
           name: "Freios Premium",
           price: "Investimento a partir de R$ 750",
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Bag3h5O25bp8ZnRSfrVSnN9A9z/a-highly-detailed-professional-photo-of--1775745770238-cf20be87.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Bag3h5O25bp8ZnRSfrVSnN9A9z/a-highly-detailed-professional-photo-of--1775745770238-cf20be87.png?_wi=3",
         },
         {
           id: "5",
           name: "Escaneamento Digital",
           price: "Investimento a partir de R$ 400",
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Bag3h5O25bp8ZnRSfrVSnN9A9z/low-angle-cinematic-view-of-a-luxury-per-1775745772399-e3d9e286.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Bag3h5O25bp8ZnRSfrVSnN9A9z/low-angle-cinematic-view-of-a-luxury-per-1775745772399-e3d9e286.png?_wi=1",
         },
         {
           id: "6",
           name: "Alinhamento 3D",
           price: "Investimento a partir de R$ 350",
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Bag3h5O25bp8ZnRSfrVSnN9A9z/close-up-cinematic-photograph-of-an-auto-1775745771756-fcc4d912.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Bag3h5O25bp8ZnRSfrVSnN9A9z/close-up-cinematic-photograph-of-an-auto-1775745771756-fcc4d912.png?_wi=3",
         },
       ]}
       title="Serviços de Alta Performance"
@@ -286,7 +286,7 @@ export default function LandingPage() {
 
   <div id="footer" data-section="footer">
       <FooterMedia
-      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Bag3h5O25bp8ZnRSfrVSnN9A9z/low-angle-cinematic-view-of-a-luxury-per-1775745772399-e3d9e286.png"
+      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Bag3h5O25bp8ZnRSfrVSnN9A9z/low-angle-cinematic-view-of-a-luxury-per-1775745772399-e3d9e286.png?_wi=2"
       logoText="Mecânica JS"
       columns={[
         {
