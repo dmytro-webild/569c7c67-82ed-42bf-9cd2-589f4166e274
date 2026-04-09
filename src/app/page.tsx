@@ -142,7 +142,7 @@ export default function LandingPage() {
       imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Bag3h5O25bp8ZnRSfrVSnN9A9z/low-angle-cinematic-view-of-a-luxury-per-1775745772399-e3d9e286.png?_wi=2"
       logoText="Mecânica JS"
       columns={[
-        { title: "Institucional", items: [{ label: "Sobre nós", href: "#about" }, { label: "Carreiras", href: "#" }, { label: "Blog", href: "#" }] },
+        { title: "", items: [{ label: "Sobre nós", href: "#about" }, { label: "Carreiras", href: "#" }, { label: "Blog", href: "#" }] },
         { title: "Serviços", items: [{ label: "Diagnósticos", href: "#services" }, { label: "Performance", href: "#services" }, { label: "Revisões", href: "#services" }] },
         { title: "Legal", items: [{ label: "Privacidade", href: "#" }, { label: "Termos", href: "#" }] }
       ]}
