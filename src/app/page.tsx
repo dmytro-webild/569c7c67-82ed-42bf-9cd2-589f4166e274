@@ -13,6 +13,8 @@ import SocialProofOne from '@/components/sections/socialProof/SocialProofOne';
 import { Award, CheckCircle, Clock, Eye, FileText, Search, Settings, Shield, Users, Zap, Wrench } from "lucide-react";
 
 export default function LandingPage() {
+  const whatsappLink = "https://wa.me/5500000000000?text=Ol%C3%A1%21%20Gostaria%20de%20agendar%20um%20servi%C3%A7o%20na%20Mec%C3%A2nica%20JS.";
+
   return (
     <ThemeProvider
         defaultButtonVariant="icon-arrow"
@@ -36,7 +38,7 @@ export default function LandingPage() {
         { name: "Contato", id: "contact" },
       ]}
       brandName="Mecânica JS"
-      button={{ text: "Agendar" }}
+      button={{ text: "Agendar", href: whatsappLink }}
     />
   </div>
 
@@ -45,7 +47,7 @@ export default function LandingPage() {
       background={{ variant: "gradient-bars" }}
       title="Precisão técnica para quem não aceita menos que a perfeição."
       description="Na Mecânica JS, resolvemos o que outros apenas diagnosticam. Profissionais de elite, tecnologia de ponta e o cuidado que seu veículo merece."
-      buttons={[{ text: "Agendar Diagnóstico de Elite", href: "#contact" }]}
+      buttons={[{ text: "Agendar Diagnóstico de Elite", href: whatsappLink }]}
       mediaItems={[
         { imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Bag3h5O25bp8ZnRSfrVSnN9A9z/close-up-cinematic-photograph-of-an-auto-1775745771756-fcc4d912.png?_wi=1", imageAlt: "Motor sendo ajustado" },
         { imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Bag3h5O25bp8ZnRSfrVSnN9A9z/close-up-macro-shot-of-automotive-gears--1775745770698-29a5cc4d.png?_wi=1", imageAlt: "Engrenagens de precisão" },
@@ -114,6 +116,7 @@ export default function LandingPage() {
       useInvertedBackground={false}
       title="Serviços de Alta Performance"
       description="Tecnologia e cuidado para seu veículo."
+      buttons={[{ text: "Agendar Agora", href: whatsappLink }]}
       products={[
         { id: "1", name: "Injeção Eletrônica", price: "Investimento a partir de R$ 800", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Bag3h5O25bp8ZnRSfrVSnN9A9z/close-up-macro-shot-of-automotive-gears--1775745770698-29a5cc4d.png?_wi=3" },
         { id: "2", name: "Revisão Performance", price: "Investimento a partir de R$ 1200", imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3Bag3h5O25bp8ZnRSfrVSnN9A9z/modern-digital-diagnostic-monitor-showin-1775745772103-0604377a.png?_wi=3" },
@@ -130,7 +133,7 @@ export default function LandingPage() {
       useInvertedBackground={false}
       background={{ variant: "rotated-rays-animated" }}
       text="Não arrisque a sua segurança com soluções temporárias. Escolha a excelência da Mecânica JS."
-      buttons={[{ text: "Falar com um Especialista via WhatsApp", href: "https://wa.me/5500000000000" }]}
+      buttons={[{ text: "Falar com um Especialista via WhatsApp", href: whatsappLink }]}
     />
   </div>
 
